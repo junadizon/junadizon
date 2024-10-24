@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @junadizon, a computer science student.
 - 👀 I’m a UI/UX designer, front-end developer, and a programmer.
-- 🗒️ This github account is for my academic stuff.
+- 🗒️ Still improving my GitHub profile...
